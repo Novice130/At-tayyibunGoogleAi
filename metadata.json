@@ -1,0 +1,8 @@
+{
+  "name": "At-Tayyibun - Halal Muslim Matrimony",
+  "description": "A privacy-first, modern halal matrimony platform for Muslims in the USA. Designed for serious seekers with a focus on Islamic values and Wali involvement.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
